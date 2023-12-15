@@ -1,6 +1,12 @@
-# Scanning-Paid
+### FREE CLONING TOOL
+``` python
 
-git clone --depth=1 https://github.com/SHAKIL-FC/Scanning-Paid.git
-cd Scanning-Paid
+rm -rf SCANNING-XD
+
+git clone https://github.com/SHAKIL-FC/Scanning-Paid.git
+
 git pull
-python SCANNING.py
+
+cd SCANNING-XD
+
+python3 SCANNING.py
